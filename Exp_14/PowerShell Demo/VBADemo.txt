@@ -1,0 +1,3 @@
+Sub MergeCell()
+	Range("A1:G1").Merge
+End Sub
